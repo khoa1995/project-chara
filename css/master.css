@@ -1,0 +1,98 @@
+header {
+    width: 100%;
+}
+
+header .img-header {
+    border-bottom: 3px solid #333333;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.navbar-brand {
+    padding-right: 72px;
+    padding-left: 150px;
+}
+
+.header {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.facebook {
+    background-color: #39579a;
+    width: 60px;
+    height: 65px;
+    text-align: center;
+}
+
+#navbar li {
+    margin-left: 32px;
+    margin-top: 5px;
+    height: 62px;
+    text-align: center
+}
+
+#navbar li a {
+    color: black;
+    font-size: 22px;
+}
+
+#navbar li .tab:hover {
+    color: #4debe1;
+    background-color: white;
+    border-bottom: 3px solid #26d6cb;
+}
+
+#navbar li .tab:focus {
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    border-bottom: 3px solid #26d6cb;
+}
+
+#navbar li .story {
+    padding-left: 0px;
+}
+
+.facebook i {
+    cursor: pointer;
+    font-size: 31px;
+    margin-top: 16px;
+    color: white;
+}
+
+.dropdown-menu {
+    margin-top: 0px;
+    border: none;
+}
+
+#navbar .dropdown-menu .service:hover {
+    background-color: #4debe1;
+    font-weight: 200;
+    color: white;
+}
+
+.language img {
+    filter: grayscale(100%);
+    border-radius: 14px;
+    height: 35px;
+}
+
+.nav .language a:hover {
+    background-color: white;
+}
+
+.language img:hover {
+    background-color: white;
+    filter: none;
+}
+#navbar .card-service{
+    text-align: left;
+    margin-left:0;
+}
+@media all and (max-width:760px) {
+    .navbar-brand {
+        padding-left: 50px;
+        height: auto;
+    }
+}
