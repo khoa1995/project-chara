@@ -90,6 +90,13 @@ header .img-header {
     text-align: left;
     margin-left:0;
 }
+footer{
+    height: 500px;
+    background-color: black;
+}
+.title-footer{
+    color: white;
+}
 @media all and (max-width:760px) {
     .navbar-brand {
         padding-left: 50px;

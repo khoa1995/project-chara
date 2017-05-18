@@ -1,0 +1,395 @@
+@charset "utf-8";
+@font-face {
+    font-family: OpenSans-Light;
+    src: url("../font/OpenSans-Light.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url("../font/OpenSans-Bold.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OpenSans-ExtraBold;
+    src: url("../font/OpenSans-ExtraBold.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OpenSans-SemiboldItalic;
+    src: url("../font/OpenSans-SemiboldItalic.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url("../font/OpenSans-Regular.ttf") format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: OpenSans-SemiBold;
+    src: url("../font/OpenSans-SemiBold.ttf") format("truetype");
+    font-style: normal;
+}
+.vertical {
+    height: auto;
+    width: 2%;
+    position: relative;
+    top: 130px;
+    left: 28%;
+}
+
+.vertical li {
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.vertical .active {
+    margin-bottom: 20px;
+    background-color: skyblue;
+    border: none;
+}
+
+.command {
+    margin-top: -15px;
+    left: 11%;
+    z-index: 9999;
+    height: 52px;
+    width: 9%;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px 0 0 114px;
+}
+
+.text-box {
+    width: 25%;
+    left: 71px;
+    height: 112px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.text-box p {
+    padding-top: 28px;
+    padding-left: 51px;
+    word-spacing: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+.text {
+    margin-left: 145px;
+    margin-top: 40px;
+    width: 55%;
+}
+
+.text .line {
+    height: 4px;
+    width: 10%;
+    background: #4debe1;
+}
+
+.text p {
+    opacity: 0.8;
+    color: #535353;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text .line2 {
+    height: 4px;
+    width: 10%;
+    background: #4debe1;
+    float: right;
+}
+
+.margin-top {
+    margin-top: 40px;
+}
+
+.line-grey {
+    height: 2px;
+    margin-left: 42%;
+    background: lightgray;
+    width: 200px;
+    opacity: 0.3;
+}
+.content-bold {
+    text-align: center;
+    font-size: 45px;
+    font-family: OpenSans-Bold;
+    padding: 0 34% 0 25%;
+}
+
+.content-light {
+    font-weight: 100;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0 34% 0 26%;
+}
+
+.title-content {
+    padding-left: 104px;
+}
+
+.number {
+    text-align: center;
+    color: #63ddd4;
+    font-size: 137px;
+    font-family: OpenSans-ExtraBold;
+    font-style: italic;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    margin-top: -74px;
+}
+
+.text2 {
+    line-height: 12px;
+    padding-top: 19px;
+    margin-left: 24px;
+    margin-right: 138px;
+}
+
+.text2 .nd {
+    font-size: 17px;
+    color: #b1f6f0;
+    font-family: OpenSans-ExtraBold;
+}
+
+.text2 .nd2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.box2 {
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+}
+
+.ticker {
+    word-spacing: 1px;
+    padding-left: 10%;
+}
+
+.end-ticker p {
+    margin: 7% 0 7% 0;
+    padding-left: 12%;
+    font-family: OpenSans-SemiboldItalic;
+    font-size: 28px;
+}
+
+.blueBox {
+    padding-top: 5%;
+    height: 450px;
+    background: #a1e4df;
+}
+
+.blueBox .blueBox-1 {
+    font-family: OpenSans-Regular;
+    font-size: 35px;
+    line-height: 1;
+}
+
+.blueBox .blueBox-2 {
+    opacity: 0.7;
+    font-family: OpenSans-Regular;
+    font-size: 35px;
+    color: white;
+}
+
+.blueBox .But {
+    border-radius: 5px;
+    padding: 2px 0 2px 0;
+    width: 15%;
+    background: white;
+}
+
+.blueBox .But p {
+    font-size: 18px;
+    text-align: center;
+    font-family: OpenSans-Bold;
+}
+
+.blueBox .blueBox-3 {
+    line-height: 1;
+    font-family: OpenSans-Regular;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 2%;
+}
+
+.boxShadowBottom {
+    box-shadow: 0px 2px 1px #888888;
+}
+
+.dontWorryTick {
+    line-height: 2;
+}
+
+.dontWorryTick p {
+    font-family: OpenSans-Regular;
+    font-size: 17px;
+}
+
+.process .content-bold {
+    font-size: 35px;
+}
+
+.process .content-light {
+    font-size: 35px;
+}
+
+.process-content ul {
+    list-style: none;
+    margin-bottom: 1px;
+    margin-left:101px;
+}
+
+.process-content ul .col-lg-3 {
+    cursor: pointer;
+    max-width: 20%;
+}
+.process-content ul .col-lg-3:hover{
+     transform: scaleY(1.1,1.1);
+}
+
+.process-content ul .col-lg-3 .number {
+    font-family: OpenSans-Bold;
+    font-size: 157px;
+    color: white;
+    position: absolute;
+    font-style: normal;
+    padding-top: 33px;
+    padding-left: 68px;
+}
+
+.process-content ul .col-lg-3 .number2 {
+    font-family: OpenSans-Bold;
+    font-size: 157px;
+    color: white;
+    position: absolute;
+    font-style: normal;
+    padding-left: 87px;
+}
+
+.process-content ul .process-text {
+    padding-top: 4%;
+    font-size: 22px;
+    font-family: OpenSans-Regular;
+    opacity: 0.6;
+    max-width: 32%;
+}
+.process-content ul .process-text span{
+    float: left;
+    text-align:left;
+}
+.process-content ul .process-text2{
+    font-size: 21px;
+    font-family: OpenSans-Regular;
+    opacity: 0.6;
+    max-width: 32%;
+    padding-top:4%;
+}
+.process-content ul .process-text2 span{
+    float: right;
+    text-align: right;
+}
+.price .types{
+    margin-left:10%;
+}
+.price .types img{
+    width: 100%;
+}
+.price .types img:hover{
+    transform: scaleY(1.1);
+}
+.price .types .btn-signIn{
+    color: white;
+    background-color: #26d6cc;
+    width:67%;
+    margin-right: 10%;
+    border: none;
+    height: 35px;
+    border-radius: 4px;
+    font-family: OpenSans-Regular;
+    text-transform: uppercase;
+    margin-left: 14%;
+    margin-top: 6%;
+    cursor: pointer;
+}
+.price .types .btn-signIn:hover{
+    transform: scale(1.1,1.1);
+}
+.director{
+    text-align: center;
+    height: auto;
+    background-color: #25d5ca;
+    padding-bottom: 20px;
+}
+.director .img-director{
+   padding-top: 80px;
+}
+.director .talk-director{
+    font-size: 17px;
+    font-family: OpenSans-Regular;
+    font-weight: 100;
+}
+.director .name{
+    font-family: OpenSans-Regular;
+    color: white;
+    font-size: 17px;
+    line-height: 1;
+    font-weight: 600;
+}
+.director .role{
+    font-style: italic;
+    font-weight: 100;
+    font-size: 17px;
+}
+.sale{
+    margin-top:40px;
+    line-height: 1.25;
+}
+.sale .saleOnline{
+    font-size: 35px;
+    font-weight: 200;
+}
+.sale .saleContent{
+    color: #25d5ca;
+    font-size: 35px;
+    font-weight: 200;
+}
+.contactForm{
+    margin-top: 40px;
+}
+.contact{
+    width: 90%;
+    margin-bottom: 15px;
+    height: 50px;
+    box-shadow: inset 7px 0 9px -7px rgba(0,0,0,0.4);
+}
+.contact::-webkit-input-placeholder{
+    font-family:  OpenSans-Light;
+    font-size: 20px;
+    opacity: 0.5;
+}
+.contactForm .sendMess{
+    width: 70%;
+    height: 40px;
+    background-color: #25d5ca;
+    color: white;
+    font-family: OpenSans-SemiBold;
+    font-size: 23px;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+}
+.contactForm .sendMess:active{
+    transform: translate(1px,1px);
+}

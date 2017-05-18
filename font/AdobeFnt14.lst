@@ -1,0 +1,345 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-Bold
+FamilyName:Cormorant Garamond
+StyleName:Bold
+FullName:Cormorant Garamond Bold
+MenuName:Cormorant Garamond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-Bold.ttf
+DataFormat:sfntData
+FileLength:416340
+FileModTime:1494821873
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-BoldItalic
+FamilyName:Cormorant Garamond
+StyleName:Bold Italic
+FullName:Cormorant Garamond Bold Italic
+MenuName:Cormorant Garamond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:286368
+FileModTime:1494821885
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-Italic
+FamilyName:Cormorant Garamond
+StyleName:Italic
+FullName:Cormorant Garamond Italic
+MenuName:Cormorant Garamond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-Italic.ttf
+DataFormat:sfntData
+FileLength:281184
+FileModTime:1494821889
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-Light
+FamilyName:Cormorant Garamond
+StyleName:Light
+FullName:CormorantGaramond-Light
+MenuName:Cormorant Garamond Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-Light.ttf
+DataFormat:sfntData
+FileLength:419224
+FileModTime:1494821895
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-LightItalic
+FamilyName:Cormorant Garamond
+StyleName:Light Italic
+FullName:Cormorant Garamond Light Italic
+MenuName:Cormorant Garamond Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-LightItalic.ttf
+DataFormat:sfntData
+FileLength:282380
+FileModTime:1494821899
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-Medium
+FamilyName:Cormorant Garamond
+StyleName:Medium
+FullName:CormorantGaramond-Medium
+MenuName:Cormorant Garamond Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-Medium.ttf
+DataFormat:sfntData
+FileLength:419616
+FileModTime:1494821907
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-MediumItalic
+FamilyName:Cormorant Garamond
+StyleName:Medium Italic
+FullName:Cormorant Garamond Medium Italic
+MenuName:Cormorant Garamond Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-MediumItalic.ttf
+DataFormat:sfntData
+FileLength:288024
+FileModTime:1494821937
+WeightClass:500
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-Regular
+FamilyName:Cormorant Garamond
+StyleName:Regular
+FullName:CormorantGaramond-Regular
+MenuName:Cormorant Garamond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-Regular.ttf
+DataFormat:sfntData
+FileLength:424968
+FileModTime:1494821943
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-SemiBold
+FamilyName:Cormorant Garamond
+StyleName:SemiBold
+FullName:CormorantGaramond-SemiBold
+MenuName:Cormorant Garamond SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-SemiBold.ttf
+DataFormat:sfntData
+FileLength:416064
+FileModTime:1494821949
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-SemiBoldItalic
+FamilyName:Cormorant Garamond
+StyleName:SemiBold Italic
+FullName:Cormorant Garamond SemiBold Italic
+MenuName:Cormorant Garamond SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\CormorantGaramond-SemiBoldItalic.ttf
+DataFormat:sfntData
+FileLength:286168
+FileModTime:1494821963
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+FullName:Open Sans Bold
+MenuName:Open Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\OpenSans-Bold.ttf
+DataFormat:sfntData
+FileLength:224592
+FileModTime:1494821968
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Extrabold
+FamilyName:Open Sans
+StyleName:Extrabold
+FullName:Open Sans Extrabold
+MenuName:Open Sans Extrabold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\OpenSans-ExtraBold.ttf
+DataFormat:sfntData
+FileLength:222584
+FileModTime:1494821975
+WeightClass:800
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-ExtraboldItalic
+FamilyName:Open Sans
+StyleName:Extrabold Italic
+FullName:Open Sans Extrabold Italic
+MenuName:Open Sans Extrabold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\OpenSans-ExtraBoldItalic.ttf
+DataFormat:sfntData
+FileLength:213420
+FileModTime:1494821981
+WeightClass:800
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Italic
+FamilyName:Open Sans
+StyleName:Italic
+FullName:Open Sans Italic
+MenuName:Open Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\OpenSans-Italic.ttf
+DataFormat:sfntData
+FileLength:212896
+FileModTime:1494821986
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSansLight-Italic
+FamilyName:Open Sans
+StyleName:Light Italic
+FullName:Open Sans Light Italic
+MenuName:Open Sans Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\OpenSans-LightItalic.ttf
+DataFormat:sfntData
+FileLength:213128
+FileModTime:1494821992
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+FullName:Open Sans
+MenuName:Open Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\OpenSans-Regular.ttf
+DataFormat:sfntData
+FileLength:217360
+FileModTime:1494821997
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Semibold
+FamilyName:Open Sans
+StyleName:Semibold
+FullName:Open Sans Semibold
+MenuName:Open Sans Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\OpenSans-Semibold.ttf
+DataFormat:sfntData
+FileLength:221328
+FileModTime:1494822004
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-SemiboldItalic
+FamilyName:Open Sans
+StyleName:Semibold Italic
+FullName:Open Sans Semibold Italic
+MenuName:Open Sans Semibold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Administrator\Desktop\chara\Font\OpenSans-SemiboldItalic.ttf
+DataFormat:sfntData
+FileLength:212820
+FileModTime:1494822008
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
