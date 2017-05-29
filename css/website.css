@@ -352,6 +352,10 @@
     font-weight: 100;
     font-size: 17px;
 }
+.director .textD{
+    font-size: 39px;
+    font-style: italic;
+}
 .sale{
     margin-top:40px;
     line-height: 1.25;
@@ -392,4 +396,28 @@
 }
 .contactForm .sendMess:active{
     transform: translate(1px,1px);
+}
+.address{
+    padding-top:40px;
+   background: #25d5ca; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, #25d5ca , #bef4f7);
+}
+.address img{
+   width: 5%;
+   height: 23px;  
+}
+.address .iconFacebook{
+    height: 30px;
+    width: 4%;
+    margin-right: 15px;
+}
+.address .container{
+    padding-bottom: 15px;
+    margin-left:16%;
+}
+.address .container p{
+    color: white;
+    font-family: OpenSans-Regular;
+    font-weight: 100;
+    font-size: 20px;
 }
